@@ -1,0 +1,13 @@
+.not-found-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+  }
+  
+  .not-found-text {
+    font-weight: bold;
+    color: #dc3545; /* Bootstrap text-danger rangi */
+    margin-top: 50px;
+    font-size: 550%;
+  }

@@ -1,0 +1,23 @@
+.navbar-section {
+    background-color: #1e241c;
+    box-shadow: rgb(219, 219, 226) 0px 7px 29px 0px;}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav .logo{
+    padding: 10px;
+}
+
+.pages{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #f2e4c9;
+    padding: 10px;
+}
